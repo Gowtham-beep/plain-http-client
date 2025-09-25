@@ -1,5 +1,5 @@
 
-# Polygon API Java Client (MVP)
+# Polygon API Java Client
 
 This is a simple Java HTTP client that fetches stock data from the [Polygon.io](https://polygon.io/) API and maps the JSON response into Java objects using **Jackson** and **Lombok**.
 
